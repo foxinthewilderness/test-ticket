@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "assigneeEmail": "",
+      "assigneeName": "",
+      "comments": [
+        {
+          "authorEmail": "",
+          "authorIsNotClient": false,
+          "authorName": "",
+          "comment": "",
+          "created": "2021-03-07T17:30:11",
+          "id": "{{$randomUUID}}",
+          "updated": "2021-03-07T17:30:11"
+        },
+        {
+          "authorEmail": "",
+          "authorIsNotClient": true,
+          "authorName": "",
+          "comment": "",
+          "created": "{{$isoTimestamp}}",
+          "id": "{{$randomUUID}}",
+          "updated": "{{$isoTimestamp}}"
+        }
+      ],
+      "created": "2021-03-07T17:30:11",
+      "description": "",
+      "id": "{{$randomUUID}}",
+      "subject": "",
+      "ticketFields": [
+        {
+          "id": "{{$randomUUID}}",
+          "label": "",
+          "values": [
+            {
+              "label": "",
+              "value": ""
+            },
+            {
+              "label": "",
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "updated": "{{$isoTimestamp}}"
+    }
+  ]
+}
